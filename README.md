@@ -46,30 +46,30 @@ Browse the audio files by language below. Click any file to listen.
 
 ---
 
-## 🇪🇸 Español
+## 🇪🇸 Espanol
 <table>
-<tr><td><a href="Espa%C3%B1ol/Poster-1.mp3">Poster-1</a></td><td><a href="Espa%C3%B1ol/Poster-2.mp3">Poster-2</a></td></tr>
-<tr><td><a href="Espa%C3%B1ol/Poster-3.mp3">Poster-3</a></td><td><a href="Espa%C3%B1ol/Poster-4.mp3">Poster-4</a></td></tr>
-<tr><td><a href="Espa%C3%B1ol/Poster-5.mp3">Poster-5</a></td><td><a href="Espa%C3%B1ol/Poster-6.mp3">Poster-6</a></td></tr>
-<tr><td><a href="Espa%C3%B1ol/Poster-7.mp3">Poster-7</a></td><td><a href="Espa%C3%B1ol/Poster-8.mp3">Poster-8</a></td></tr>
-<tr><td><a href="Espa%C3%B1ol/Poster-9.mp3">Poster-9</a></td><td><a href="Espa%C3%B1ol/Poster-10.mp3">Poster-10</a></td></tr>
-<tr><td><a href="Espa%C3%B1ol/Poster-11.mp3">Poster-11</a></td><td><a href="Espa%C3%B1ol/Poster-12.mp3">Poster-12</a></td></tr>
-<tr><td><a href="Espa%C3%B1ol/Poster-13.mp3">Poster-13</a></td><td><a href="Espa%C3%B1ol/Poster-14.mp3">Poster-14</a></td></tr>
-<tr><td><a href="Espa%C3%B1ol/Poster-15.mp3">Poster-15</a></td><td><a href="Espa%C3%B1ol/Poster-16.mp3">Poster-16</a></td></tr>
+<tr><td><a href="Espanol/Poster-1.mp3">Poster-1</a></td><td><a href="Espanol/Poster-2.mp3">Poster-2</a></td></tr>
+<tr><td><a href="Espanol/Poster-3.mp3">Poster-3</a></td><td><a href="Espanol/Poster-4.mp3">Poster-4</a></td></tr>
+<tr><td><a href="Espanol/Poster-5.mp3">Poster-5</a></td><td><a href="Espanol/Poster-6.mp3">Poster-6</a></td></tr>
+<tr><td><a href="Espanol/Poster-7.mp3">Poster-7</a></td><td><a href="Espanol/Poster-8.mp3">Poster-8</a></td></tr>
+<tr><td><a href="Espanol/Poster-9.mp3">Poster-9</a></td><td><a href="Espanol/Poster-10.mp3">Poster-10</a></td></tr>
+<tr><td><a href="Espanol/Poster-11.mp3">Poster-11</a></td><td><a href="Espanol/Poster-12.mp3">Poster-12</a></td></tr>
+<tr><td><a href="Espanol/Poster-13.mp3">Poster-13</a></td><td><a href="Espanol/Poster-14.mp3">Poster-14</a></td></tr>
+<tr><td><a href="Espanol/Poster-15.mp3">Poster-15</a></td><td><a href="Espanol/Poster-16.mp3">Poster-16</a></td></tr>
 </table>
 
 ---
 
-## 🇫🇷 Français
+## 🇫🇷 Francais
 <table>
-<tr><td><a href="Fran%C3%A7ais/Poster-1.mp3">Poster-1</a></td><td><a href="Fran%C3%A7ais/Poster-2.mp3">Poster-2</a></td></tr>
-<tr><td><a href="Fran%C3%A7ais/Poster-3.mp3">Poster-3</a></td><td><a href="Fran%C3%A7ais/Poster-4.mp3">Poster-4</a></td></tr>
-<tr><td><a href="Fran%C3%A7ais/Poster-5.mp3">Poster-5</a></td><td><a href="Fran%C3%A7ais/Poster-6.mp3">Poster-6</a></td></tr>
-<tr><td><a href="Fran%C3%A7ais/Poster-7.mp3">Poster-7</a></td><td><a href="Fran%C3%A7ais/Poster-8.mp3">Poster-8</a></td></tr>
-<tr><td><a href="Fran%C3%A7ais/Poster-9.mp3">Poster-9</a></td><td><a href="Fran%C3%A7ais/Poster-10.mp3">Poster-10</a></td></tr>
-<tr><td><a href="Fran%C3%A7ais/Poster-11.mp3">Poster-11</a></td><td><a href="Fran%C3%A7ais/Poster-12.mp3">Poster-12</a></td></tr>
-<tr><td><a href="Fran%C3%A7ais/Poster-13.mp3">Poster-13</a></td><td><a href="Fran%C3%A7ais/Poster-14.mp3">Poster-14</a></td></tr>
-<tr><td><a href="Fran%C3%A7ais/Poster-15.mp3">Poster-15</a></td><td><a href="Fran%C3%A7ais/Poster-16.mp3">Poster-16</a></td></tr>
+<tr><td><a href="Francais/Poster-1.mp3">Poster-1</a></td><td><a href="Francais/Poster-2.mp3">Poster-2</a></td></tr>
+<tr><td><a href="Francais/Poster-3.mp3">Poster-3</a></td><td><a href="Francais/Poster-4.mp3">Poster-4</a></td></tr>
+<tr><td><a href="Francais/Poster-5.mp3">Poster-5</a></td><td><a href="Francais/Poster-6.mp3">Poster-6</a></td></tr>
+<tr><td><a href="Francais/Poster-7.mp3">Poster-7</a></td><td><a href="Francais/Poster-8.mp3">Poster-8</a></td></tr>
+<tr><td><a href="Francais/Poster-9.mp3">Poster-9</a></td><td><a href="Francais/Poster-10.mp3">Poster-10</a></td></tr>
+<tr><td><a href="Francais/Poster-11.mp3">Poster-11</a></td><td><a href="Francais/Poster-12.mp3">Poster-12</a></td></tr>
+<tr><td><a href="Francais/Poster-13.mp3">Poster-13</a></td><td><a href="Francais/Poster-14.mp3">Poster-14</a></td></tr>
+<tr><td><a href="Francais/Poster-15.mp3">Poster-15</a></td><td><a href="Francais/Poster-16.mp3">Poster-16</a></td></tr>
 </table>
 
 ---
